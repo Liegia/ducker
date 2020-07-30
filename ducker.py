@@ -6,7 +6,6 @@ created 2020-07-30
 k.heidenborg.se
 """
 
-
 # Use chmod +x ducker.py
 # Then cp ducker.py /bin/ducker
 
